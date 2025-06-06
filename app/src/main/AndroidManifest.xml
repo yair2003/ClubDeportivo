@@ -13,10 +13,10 @@
         android:theme="@style/Theme.ClubDeportivo"
         tools:targetApi="31">
         <activity
-            android:name=".ArbitroActivity"
+            android:name=".CanchaDetalleActivity"
             android:exported="false" />
         <activity
-            android:name=".AdministradorActivity"
+            android:name=".CanchasActivity"
             android:exported="false" />
         <activity
             android:name=".LoginActivity"
